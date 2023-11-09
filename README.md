@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thaís Meneses</h1>
 <h3 align="center">Professional passionate about engineering and technology, and I am trying to know more about the world of programming</h3>
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning, and C Programming Language**
 
 - 👨‍💻 All of my projects are available at [thaiismeneses](thaiismeneses)
 
-- 💬 Ask me about **SQL, Python, PowerBI, Excel and Tableau**
+- 💬 Ask me about **SQL, Python, PowerBI, Excel, and Tableau**
 
 - 📫 How to reach me **thaisfranco19@gmail.com**
 
