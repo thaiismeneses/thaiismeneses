@@ -1,3 +1,40 @@
+# 👋 Hi, I'm Thaís Meneses!
+
+💻 Passionate about technology, development, and innovation.  
+🎯 Currently focused on data and IA.  
+🌱 Currently learning C, C++, Python, Docker and AI.
+
+
+# 🛠️ Technologies and Tools:
+
+💻 Languages: C, C++, Python, JavaScript, and SQL  
+🔧 Tools: Git, Docker, Linux, Meltano, Airflow, and Dagster  
+🌐 Frontend: HTML and CSS  
+🗄️ Databases: PostgreSQL, MySQL, and SQL Server  
+📊 Business Intelligence & Data Analytics: Power BI, Power Query, Google Data Studio, and Tableau  
+☁️ Cloud & DevOps: AWS, Docker, GitHub Actions, and Azure  
+🐚 Scripting: Bash  
+📝 Code Editors: Vim, VS Code, and Jupyter Notebook  
+🎨 Design: Figma and Canva  
+⚙️ Frameworks: Bootstrap, Anaconda, Apache Hadoop, and Apache Spark 
+
+## 🔥 About Me
+
+I am always trying to know more about the world of programming. I enjoy solving problems, learning new things, and turning ideas into solutions.  
+
+## 📫 How to reach me
+
+- LinkedIn: [Thaís Meneses](https://linkedin.com/in/thaisfmeneses)  
+- Email: thaisfranco19@gmail.com
+- ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) Cadet: thfranco 
+<!--- Portfolio/Website: [if you have one]-->  
+
+---
+
+⭐ If you like my projects, feel free to give a star!
+
+
+<!--
 <h1 align="center">Hi 👋, I'm Thaís Meneses</h1>
 <h3 align="center">Professional passionate about engineering and technology, and I am trying to know more about the world of programming</h3>
 
@@ -20,7 +57,7 @@
 
 
 
-<!--
+
 ### Hi there 👋
 **thaiismeneses/thaiismeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
