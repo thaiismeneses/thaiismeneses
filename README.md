@@ -29,9 +29,22 @@ I am always trying to know more about the world of programming. I enjoy solving 
 - ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white) Cadet: thfranco 
 <!--- Portfolio/Website: [if you have one]-->  
 
+## 📊 GitHub Stats
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaiismeneses&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thaiismeneses&theme=tokyonight&hide_border=true)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaiismeneses&theme=tokyonight)
+
+<!--![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thaiismeneses&theme=tokyonight&utcOffset=3)-->
+
+
+
 ---
 
 ⭐ If you like my projects, feel free to give a star!
+
+
 
 
 <!--
